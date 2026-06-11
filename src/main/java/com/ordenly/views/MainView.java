@@ -60,7 +60,7 @@ public class MainView extends BorderPane {
         sidebar.setPrefWidth(160);
         sidebar.setAlignment(Pos.TOP_CENTER);
 
-        Label logo = new Label("FileForge");
+        Label logo = new Label("Ordenly");
         logo.getStyleClass().add("logo");
 
         ToggleGroup modeGroup = new ToggleGroup();
